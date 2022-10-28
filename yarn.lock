@@ -1375,10 +1375,10 @@ readdirp@~3.6.0:
   dependencies:
     picomatch "^2.2.1"
 
-remark-github@^11.2.3:
-  version "11.2.3"
-  resolved "https://registry.yarnpkg.com/remark-github/-/remark-github-11.2.3.tgz#5898c5f37b70bc1efd69a4833a391d74c0850574"
-  integrity sha512-3V/EnKy3Z2Ukmxt11M6pP8QHuSbsQO1yNujfr+hyRVAZT9RlTSYLmwOe23um0ynqWbG37fYhkbUMWsFDxlXAhw==
+remark-github@^11.2.4:
+  version "11.2.4"
+  resolved "https://registry.yarnpkg.com/remark-github/-/remark-github-11.2.4.tgz#146d13600b8b13acf4d117e7a01d00bce6bad577"
+  integrity sha512-GJjWFpwqdrHHhPWqMbb8+lqFLiHQ9pCzUmXmRrhMFXGpYov5n2ljsZzuWgXlfzArfQYkiKIZczA2I8IHYMHqCA==
   dependencies:
     "@types/mdast" "^3.0.0"
     mdast-util-find-and-replace "^2.0.0"
