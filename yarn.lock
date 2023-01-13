@@ -46,10 +46,12 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-13.0.0.tgz#38527956680693c90b4522ab4ab9a2fbe3a17f67"
   integrity sha512-65v9BVuah2Mplohm4+efsKEnoEuhmlGm8B2w6vD1geeEP2wXtlSJCvR/cCRJ3fD8wzCQBV41VcMBQeYET6MRkg==
 
-"@next/mdx@^13.0.0":
-  version "13.0.0"
-  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-13.0.0.tgz#429e73c27093958b9d330fa7167205b8f71bf212"
-  integrity sha512-2p5g2KmWEgytkaECcV7yWuDaliDO70tM8Yphdrq0123T8n1kcPaPxyswYTmzxnsn7kDN3YYW6lLHJcWHxabUFQ==
+"@next/mdx@^13.1.2":
+  version "13.1.2"
+  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-13.1.2.tgz#f53d2eeb203019862e32dff274c538b3be33eaef"
+  integrity sha512-7SDyXOqTUHeklV2aJOTWEIW6x8E8i4agKwQVXrPtpZiTkIjR9v7155oMCV48fpwxjQCoH/5ek3EwzbXwO0qzHw==
+  dependencies:
+    source-map "^0.7.0"
 
 "@next/swc-android-arm-eabi@13.0.0":
   version "13.0.0"
